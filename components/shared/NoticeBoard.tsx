@@ -11,8 +11,6 @@ export default function NoticeBoard({adminId, classes}: NoticeBoardProps) {
         <ScrollArea className={`h-[200px] w-[95%] rounded-md border ${classes}`}>
           <div className="p-5">
             <BlogLink />
-            <BlogLink />
-            
           </div>
         </ScrollArea>
     )
