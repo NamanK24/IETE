@@ -5,7 +5,7 @@ export default function BlogLink() {
         <>
         <div className="flex flex-row justify-between m-5">
             <div className="text-2xl font-bold">
-                INDUSTRY INNOVATION MEET (WEST ZONE)
+                INDUSTRY 
                 <div className="text-sm font-semibold">
                     Futuristic Technology for Aatamanirbhar Bharat
                 </div>
